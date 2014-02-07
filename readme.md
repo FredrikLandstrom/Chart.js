@@ -42,6 +42,3 @@ There are several ways of creating classes in JS and it would be good to agree o
 We want everything to work in raw JS, no (other) libraries.
 
 This is not the place to submit pull requests for your awesome Chart.js fork. At least not until we get it refactored.
-
- 
-					

@@ -20,10 +20,10 @@ There are several ways of creating classes in JS and it would be good to agree o
  
     function createDrawingObject(ctx) {
         var that = {
-            xPos = 0,
-            yPos = 0,
-            color = #000000,
-            draw() = function() {
+            xPos: 0,
+            yPos: 0,
+            color: '#000000;',
+            draw: function() {
             ctx.beginPath(that.xPos, that.yPos);
                 ctx.stroke();
                 ctx.fill();
@@ -41,4 +41,4 @@ There are several ways of creating classes in JS and it would be good to agree o
 
 We want everything to work in raw JS, no (other) libraries.
 
-This is not the place to submit pull requests for your awesome Chart.js fork. At least not until we get it refactored.
+This is not the place to submit pull requests for your awesome Chart.js fork. At least not until we get it ground work done.

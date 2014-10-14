@@ -1,4 +1,4 @@
-This is a fork of Chart.js by Nick Downie, http://www.chartjs.org.
+This is a fork of Chart.js by Nick Downie, http://www.chartjs.org.t
 
 Chart.js
 =======
